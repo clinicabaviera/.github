@@ -1,4 +1,4 @@
-![github.com/clinicabaviera/.github/profile/images/banner.PNG]()
+![](https://raw.githubusercontent.com/clinicabaviera/.github/main/profile/images/banner.PNG)
 
 # ¿Quiénes somos?
 
